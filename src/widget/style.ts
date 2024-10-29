@@ -9,4 +9,6 @@ export const Style = {
   fontColour: "black",
   focusColour: "mediumblue",
   minElementSize: 32,
+  autoFontColour: "lightgrey",
+  toggleFill: "grey"
 };
